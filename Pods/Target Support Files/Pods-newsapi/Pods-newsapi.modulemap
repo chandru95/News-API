@@ -1,0 +1,6 @@
+framework module Pods_newsapi {
+  umbrella header "Pods-newsapi-umbrella.h"
+
+  export *
+  module * { export * }
+}
